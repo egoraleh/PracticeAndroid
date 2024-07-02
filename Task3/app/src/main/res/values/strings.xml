@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SummerPractice24</string>
+    <string name="send_button_text">Send</string>
+
+    <string name="main_screen">Main</string>
+    <string name="profile_screen">Profile</string>
+    <string name="settings_screen">Settings</string>
+    <string name="review_screen">Review</string>
+    <string name="random_screen">Random</string>
+    <string name="review">Благодарим вас за отзыв!</string>
+    <string name="button_text">Отправить отзыв</string>
+
+</resources>
